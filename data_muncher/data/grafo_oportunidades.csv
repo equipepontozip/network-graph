@@ -1,18 +1,18 @@
 id_business_question,business_question,id_data_question,data_question,id_feature,feature,id_dado,dado
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",1,Quais negócios de maior sucesso,1,Negócios de serviços similares,1,lat/long setor censitário/bairro
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",1,Quais negócios de maior sucesso,1,Negócios de serviços similares,2,CNAE
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",1,Quais negócios de maior sucesso,1,Negócios de serviços similares,3,Porte da empresa
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",1,Quais negócios de maior sucesso,1,Negócios de serviços similares,4,Faturamento da empresa
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",1,Quais negócios de maior sucesso,1,Negócios de serviços similares,5,Data de abertura
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",1,Quais negócios de maior sucesso,1,Negócios de serviços similares,6,Data de fechamento
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Qual a mortalidade do negócio X?,2,Tempo de abertura e/ou fechamento das empresas,1,lat/long setor censitário/bairro
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Qual a mortalidade do negócio X?,2,Tempo de abertura e/ou fechamento das empresas,2,CNAE
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Qual a mortalidade do negócio X?,2,Tempo de abertura e/ou fechamento das empresas,3,Porte da empresa
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Qual a mortalidade do negócio X?,2,Tempo de abertura e/ou fechamento das empresas,5,Data de abertura
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Qual a mortalidade do negócio X?,2,Tempo de abertura e/ou fechamento das empresas,6,Data de fechamento
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Quais locais são similares para se ter o negócio X?,3,Saturação de negócios similares,1,lat/long setor censitário/bairro
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Quais locais são similares para se ter o negócio X?,3,Saturação de negócios similares,2,CNAE
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Quais locais são similares para se ter o negócio X?,3,Saturação de negócios similares,3,Porte da empresa
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Quais locais são similares para se ter o negócio X?,3,Saturação de negócios similares,4,Faturamento da empresa
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Quais locais são similares para se ter o negócio X?,3,Saturação de negócios similares,5,Data de abertura
-1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Quais locais são similares para se ter o negócio X?,3,Saturação de negócios similares,6,Data de fechamento
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Quais negócios de maior sucesso,5,Negócios de serviços similares,8,lat/long setor censitário/bairro
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Quais negócios de maior sucesso,5,Negócios de serviços similares,9,CNAE
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Quais negócios de maior sucesso,5,Negócios de serviços similares,10,Porte da empresa
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Quais negócios de maior sucesso,5,Negócios de serviços similares,11,Faturamento da empresa
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Quais negócios de maior sucesso,5,Negócios de serviços similares,12,Data de abertura
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",2,Quais negócios de maior sucesso,5,Negócios de serviços similares,13,Data de fechamento
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Qual a mortalidade do negócio X?,6,Tempo de abertura e/ou fechamento das empresas,8,lat/long setor censitário/bairro
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Qual a mortalidade do negócio X?,6,Tempo de abertura e/ou fechamento das empresas,9,CNAE
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Qual a mortalidade do negócio X?,6,Tempo de abertura e/ou fechamento das empresas,10,Porte da empresa
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Qual a mortalidade do negócio X?,6,Tempo de abertura e/ou fechamento das empresas,12,Data de abertura
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",3,Qual a mortalidade do negócio X?,6,Tempo de abertura e/ou fechamento das empresas,13,Data de fechamento
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",4,Quais locais são similares para se ter o negócio X?,7,Saturação de negócios similares,8,lat/long setor censitário/bairro
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",4,Quais locais são similares para se ter o negócio X?,7,Saturação de negócios similares,9,CNAE
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",4,Quais locais são similares para se ter o negócio X?,7,Saturação de negócios similares,10,Porte da empresa
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",4,Quais locais são similares para se ter o negócio X?,7,Saturação de negócios similares,11,Faturamento da empresa
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",4,Quais locais são similares para se ter o negócio X?,7,Saturação de negócios similares,12,Data de abertura
+1,"Quero ter o negócio X (ex: salão de beleza), qual o melhor local para abrir?",4,Quais locais são similares para se ter o negócio X?,7,Saturação de negócios similares,13,Data de fechamento
