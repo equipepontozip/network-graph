@@ -1,0 +1,18 @@
+
+    {
+      "nodes": [
+        {
+           "id":1 ,
+           "label":"label" ,
+           "title":"titulo <br> break <br>outro break<br>" ,
+           "group":"grupo_de_cor_1"
+        }
+      ],
+      "edges": [
+        {
+        "from": 1,
+        "to": "NaN"
+        }
+      ]
+    }
+    
